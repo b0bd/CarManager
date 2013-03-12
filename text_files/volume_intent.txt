@@ -1,0 +1,29 @@
+
+    /*
+D/CAMMS-AVM( 1152): got intent android.media.VOLUME_CHANGED_ACTION
+D/CAMMS-AVM( 1152): extra 'android.media.EXTRA_VOLUME_STREAM_TYPE' = '5
+D/CAMMS-AVM( 1152): extra 'android.media.EXTRA_PREV_VOLUME_STREAM_VALUE' = '6
+D/CAMMS-AVM( 1152): extra 'android.media.EXTRA_VOLUME_STREAM_VALUE' = '7
+
+
+
+
+D/CAMMS-AVM( 1158): got intent android.media.VOLUME_CHANGED_ACTION
+D/CAMMS-AVM( 1158): first activity: com.android.settings.Settings
+D/CAMMS-AVM( 1158):  first activity package: com.android.settings
+D/CAMMS-AVM( 1158): got intent android.media.VOLUME_CHANGED_ACTION
+D/CAMMS-AVM( 1158): first activity: com.android.settings.Settings
+D/CAMMS-AVM( 1158):  first activity package: com.android.settings
+D/CAMMS-AVM( 1158): someone changed the notification volume lower from 7 to 5
+D/CAMMS-AVM( 1158): resetting volume
+D/CAMMS-AVM( 1158): got intent android.media.VOLUME_CHANGED_ACTION
+D/CAMMS-AVM( 1158): first activity: com.android.settings.Settings
+D/CAMMS-AVM( 1158):  first activity package: com.android.settings
+D/CAMMS-AVM( 1158): got intent android.media.VOLUME_CHANGED_ACTION
+D/CAMMS-AVM( 1158): first activity: com.android.settings.Settings
+D/CAMMS-AVM( 1158):  first activity package: com.android.settings
+D/CAMMS-AVM( 1158): someone changed the notification volume lower from 7 to 6
+D/CAMMS-AVM( 1158): resetting volume
+D/CAMMS-AVM( 1158): got intent android.media.VOLUME_CHANGED_ACTION
+D/CAMMS-AVM( 1158): first activity: com.android.settings.Settings
+D/CAMMS-AVM( 1158):  first activity package: com.android.settings

@@ -1,0 +1,15 @@
+ 0 [Tegra          ]: HDA-Intel - HDA NVIDIA Tegra
+                      HDA NVIDIA Tegra at 0x70038000 irq 113
+ 1 [tegrart5640    ]: tegra-rt5640 - tegra-rt5640
+                      tegra-rt5640
+ 2 [CODEC          ]: USB-Audio - USB Audio CODEC
+                      Burr-Brown from TI USB Audio CODEC at usb-tegra-ehci.0-1.2, full speed
+
+
+
+
+
+ 0 [OMAP4QooABE    ]: OMAP4_Qoo-ABE - OMAP4_Qoo-ABE
+                      OMAP4_Qoo_AIC3110-ABE
+ 1 [Duo            ]: USB-Audio - USB AudioSport Duo
+                      M Audio USB AudioSport Duo at usb-musb-hdrc-1.1, full speed

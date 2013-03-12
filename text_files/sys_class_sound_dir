@@ -1,0 +1,18 @@
+root@android:/sys/class/sound # ls -la
+lrwxrwxrwx root     root              2013-02-18 15:00 card0 -> ../../devices/platform/soc-audio/sound/card0
+lrwxrwxrwx root     root              2013-02-18 15:00 card1 -> ../../devices/platform/omap/musb-omap2430/musb-hdrc/usb1/1-1/1-1.1/1-1.1:1.0/sound/card1
+lrwxrwxrwx root     root              2013-02-18 15:00 controlC0 -> ../../devices/platform/soc-audio/sound/card0/controlC0
+lrwxrwxrwx root     root              2013-02-18 15:00 controlC1 -> ../../devices/platform/omap/musb-omap2430/musb-hdrc/usb1/1-1/1-1.1/1-1.1:1.0/sound/card1/controlC1
+lrwxrwxrwx root     root              2013-02-18 15:00 pcmC0D0p -> ../../devices/platform/soc-audio/sound/card0/pcmC0D0p
+lrwxrwxrwx root     root              2013-02-18 15:00 pcmC0D1c -> ../../devices/platform/soc-audio/sound/card0/pcmC0D1c
+lrwxrwxrwx root     root              2013-02-18 15:00 pcmC0D1p -> ../../devices/platform/soc-audio/sound/card0/pcmC0D1p
+lrwxrwxrwx root     root              2013-02-18 15:00 pcmC0D2c -> ../../devices/platform/soc-audio/sound/card0/pcmC0D2c
+lrwxrwxrwx root     root              2013-02-18 15:00 pcmC0D3c -> ../../devices/platform/soc-audio/sound/card0/pcmC0D3c
+lrwxrwxrwx root     root              2013-02-18 15:00 pcmC0D3p -> ../../devices/platform/soc-audio/sound/card0/pcmC0D3p
+lrwxrwxrwx root     root              2013-02-18 15:00 pcmC0D4c -> ../../devices/platform/soc-audio/sound/card0/pcmC0D4c
+lrwxrwxrwx root     root              2013-02-18 15:00 pcmC0D4p -> ../../devices/platform/soc-audio/sound/card0/pcmC0D4p
+lrwxrwxrwx root     root              2013-02-18 15:00 pcmC0D5c -> ../../devices/platform/soc-audio/sound/card0/pcmC0D5c
+lrwxrwxrwx root     root              2013-02-18 15:00 pcmC0D5p -> ../../devices/platform/soc-audio/sound/card0/pcmC0D5p
+lrwxrwxrwx root     root              2013-02-18 15:00 pcmC1D0c -> ../../devices/platform/omap/musb-omap2430/musb-hdrc/usb1/1-1/1-1.1/1-1.1:1.0/sound/card1/pcmC1D0c
+lrwxrwxrwx root     root              2013-02-18 15:00 pcmC1D0p -> ../../devices/platform/omap/musb-omap2430/musb-hdrc/usb1/1-1/1-1.1/1-1.1:1.0/sound/card1/pcmC1D0p
+lrwxrwxrwx root     root              2013-02-18 15:00 timer -> ../../devices/virtual/sound/timer

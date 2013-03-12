@@ -1,0 +1,79 @@
+M Audio USB AudioSport Duo at usb-musb-hdrc-1.1, full speed : USB Audio
+
+Playback:
+  Status: Stop
+  Interface 1
+    Altset 3
+    Format: S24_3LE
+    Channels: 2
+    Endpoint: 3 OUT (ADAPTIVE)
+    Rates: 8000, 11025, 16000, 22050, 44100, 48000
+  Interface 1
+    Altset 4
+    Format: S16_LE
+    Channels: 2
+    Endpoint: 3 OUT (ADAPTIVE)
+    Rates: 8000, 11025, 16000, 22050, 44100
+  Interface 4
+    Altset 1
+    Format: S24_3LE
+    Channels: 2
+    Endpoint: 3 OUT (ADAPTIVE)
+    Rates: 88200, 96000
+  Interface 4
+    Altset 2
+    Format: S16_LE
+    Channels: 2
+    Endpoint: 3 OUT (ADAPTIVE)
+    Rates: 88200, 96000
+  Interface 4
+    Altset 3
+    Format: S24_3LE
+    Channels: 2
+    Endpoint: 3 OUT (ADAPTIVE)
+    Rates: 8000, 11025, 16000, 22050, 44100, 48000
+  Interface 4
+    Altset 4
+    Format: S16_LE
+    Channels: 2
+    Endpoint: 3 OUT (ADAPTIVE)
+    Rates: 8000, 11025, 16000, 22050, 44100, 48000
+
+Capture:
+  Status: Stop
+  Interface 2
+    Altset 3
+    Format: S24_3LE
+    Channels: 2
+    Endpoint: 5 IN (SYNC)
+    Rates: 8000, 11025, 16000, 22050, 44100, 48000
+  Interface 2
+    Altset 4
+    Format: S16_LE
+    Channels: 2
+    Endpoint: 5 IN (SYNC)
+    Rates: 8000, 11025, 16000, 22050, 44100
+  Interface 5
+    Altset 1
+    Format: S24_3LE
+    Channels: 2
+    Endpoint: 5 IN (SYNC)
+    Rates: 88200, 96000
+  Interface 5
+    Altset 2
+    Format: S16_LE
+    Channels: 2
+    Endpoint: 5 IN (SYNC)
+    Rates: 88200, 96000
+  Interface 5
+    Altset 3
+    Format: S24_3LE
+    Channels: 2
+    Endpoint: 5 IN (SYNC)
+    Rates: 8000, 11025, 16000, 22050, 44100, 48000
+  Interface 5
+    Altset 4
+    Format: S16_LE
+    Channels: 2
+    Endpoint: 5 IN (SYNC)
+    Rates: 8000, 11025, 16000, 22050, 44100, 48000

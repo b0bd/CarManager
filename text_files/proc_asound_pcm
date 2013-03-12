@@ -1,0 +1,14 @@
+00-00: Multimedia null-codec-dai-0 :  : playback 1
+00-01: Multimedia null-codec-dai-1 :  : playback 1 : capture 1
+00-02: Multimedia Capture null-codec-dai-2 :  : capture 1
+00-03: Multimedia tlv320aic3110-MM_EXT-3 :  : playback 1 : capture 1
+00-04: FM Playback tlv320aic3110-MM_EXT-4 :  : playback 1 : capture 1
+00-05: FM Capture tlv320aic3110-MM_EXT-5 :  : playback 1 : capture 1
+01-00: USB Audio : USB Audio : playback 1 : capture 1
+01-01: USB Audio : USB Audio #1 : playback 1 : capture 1
+01-02: USB Audio : USB Audio #2 : playback 1
+
+
+
+looks like we go backwards from 02 to 00
+

@@ -1,0 +1,15 @@
+V/UAO     ( 1051): received Event '{MINOR=0, MAJOR=188, SUBSYSTEM=tty, DEVNAME=ttyUSB0, DEVPATH=/devices/platform/omap/musb-omap2430/musb-hdrc/usb1/1-1/1-1.1/1-1.1:1.0/ttyUSB0/tty/ttyUSB0, SEQNUM=2287, ACTION=add}'
+V/UAO     ( 1051): received Event '{MINOR=0, MAJOR=188, SUBSYSTEM=tty, DEVNAME=ttyUSB0, DEVPATH=/devices/platform/omap/musb-omap2430/musb-hdrc/usb1/1-1/1-1.1/1-1.1:1.0/ttyUSB0/tty/ttyUSB0, SEQNUM=2464, ACTION=remove}'
+
+
+
+
+V/UAO     ( 1174): received Event '{MINOR=13, MAJOR=116, SUBSYSTEM=sound, DEVNAME=snd/pcmC1D0p, DEVPATH=/devices/platform/omap/musb-omap2430/musb-hdrc/usb1/1-1/1-1.1/1-1.1:1.0/sound/card1/pcmC1D0p, SEQNUM=2485, ACTION=add}'
+V/UAO     ( 1174): received Event '{MINOR=14, MAJOR=116, SUBSYSTEM=sound, DEVNAME=snd/pcmC1D0c, DEVPATH=/devices/platform/omap/musb-omap2430/musb-hdrc/usb1/1-1/1-1.1/1-1.1:1.0/sound/card1/pcmC1D0c, SEQNUM=2486, ACTION=add}'
+V/UAO     ( 1174): received Event '{MINOR=15, MAJOR=116, SUBSYSTEM=sound, DEVNAME=snd/controlC1, DEVPATH=/devices/platform/omap/musb-omap2430/musb-hdrc/usb1/1-1/1-1.1/1-1.1:1.0/sound/card1/controlC1, SEQNUM=2487, ACTION=add}'
+
+V/UAO     ( 1174): received Event '{MINOR=13, MAJOR=116, SUBSYSTEM=sound, DEVNAME=snd/pcmC1D0p, DEVPATH=/1-1.1:1.0/sound/card1/pcmC1D0p, SEQNUM=2628, ACTION=remove}'
+V/UAO     ( 1174): received Event '{MINOR=14, MAJOR=116, SUBSYSTEM=sound, DEVNAME=snd/pcmC1D0c, DEVPATH=/1-1.1:1.0/sound/card1/pcmC1D0c, SEQNUM=2629, ACTION=remove}'
+V/UAO     ( 1174): received Event '{MINOR=15, MAJOR=116, SUBSYSTEM=sound, DEVNAME=snd/controlC1, DEVPATH=/1-1.1:1.0/sound/card1/controlC1, SEQNUM=2630, ACTION=remove}'
+V/UAO     ( 1174): received Event '{MINOR=0, MAJOR=188, SUBSYSTEM=tty, DEVNAME=ttyUSB0, DEVPATH=/devices/platform/omap/musb-omap2430/musb-hdrc/usb1/1-1/1-1.2/1-1.2:1.0/ttyUSB0/tty/ttyUSB0, SEQNUM=2637, ACTION=remove}'
+
