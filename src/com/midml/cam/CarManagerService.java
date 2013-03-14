@@ -23,8 +23,11 @@ public final class CarManagerService extends Service
         _hotplug = new UsbAudioHotplug(this);
         new UsbAudioObserver(this).start();
 
-        final IntentFilter vf = new IntentFilter("android.media.VOLUME_CHANGED_ACTION");
-        registerReceiver(new AudioVolumeMonitor(this), vf);
+        //looks like navigon fixed the low notification volume bug
+        // so we don't need this anymore
+
+        //final IntentFilter vf = new IntentFilter("android.media.VOLUME_CHANGED_ACTION");
+        //registerReceiver(new AudioVolumeMonitor(this), vf);
 
         final IntentFilter pf = new IntentFilter();
         pf.addAction("android.intent.action.ACTION_POWER_CONNECTED");
